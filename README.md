@@ -4,13 +4,14 @@ It supports user authentication (login/logout) and personal todo lists per user.
 
 Features
 
-User registration and login system.
-Add tasks.
-Mark tasks as Done / Undo.
-Delete tasks.
+User registration and login system,
+Add tasks,
+Mark tasks as Done / Undo,
+Delete tasks,
+
 Tasks are stored in MySQL (per user).
-Simple and clean UI with CSS styling.
-Secure with password hashing & session-based login.
+Simple and clean UI done with CSS styling.
+Secured with password hashing and session-based login.
 
 
 <img width="811" height="575" alt="image" src="https://github.com/user-attachments/assets/99351017-0242-47fb-8cdf-3184bb8b8cab" />
